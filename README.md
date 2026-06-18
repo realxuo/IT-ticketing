@@ -58,9 +58,7 @@ Open `http://localhost:5000` in your browser.
 |------|-------|---------|
 | Admin | admin@helpdesk.com | admin123 |
 | Technician | alex@helpdesk.com | tech123 |
-| Technician | jordan@helpdesk.com | tech123 |
 | User | sam@company.com | user123 |
-| User | taylor@company.com | user123 |
 
 ## Project Structure
 
